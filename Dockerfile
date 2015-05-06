@@ -1,6 +1,6 @@
 FROM busybox
 
-MAINTAINER Ain Tohvri <at@interactive-pioneer.de>
+MAINTAINER Ain Tohvri <at@interactive-pioneers.de>
 
 ENV DATA_HOME /data
 
